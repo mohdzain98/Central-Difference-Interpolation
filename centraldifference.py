@@ -64,14 +64,6 @@ fvalue=formula()
 print("The result is:",fvalue)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
